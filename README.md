@@ -27,8 +27,6 @@ Then visit: http://localhost:8080
 
 ## Deploy to GitHub Pages
 
-Follow these steps to host your portfolio for free on GitHub Pages (same approach as [Moses Kamira's portfolio](https://moseskamira.github.io/my-portfolio/)).
-
 ### Step 1: Create a GitHub repository
 
 1. Go to [github.com/new](https://github.com/new)
